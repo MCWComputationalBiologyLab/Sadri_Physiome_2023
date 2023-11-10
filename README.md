@@ -1,2 +1,7 @@
 # Shima_Physiome_2023
-These are GitHub repository codes for the Physiome Journal publication on the "Reproducibility of the Computational Models of Substrate-Dependent Mitochondrial Respiration and Bioenergetics in the Heart and Kidney Cortex and Outer Medulla". The original manuscript is published in Function journal (FUNCTION, 2023, 4(5): zqad038).
+This folder contains MATLAB codes for the computational models of the heart and kidney 
+cortex and outer medulla (OM) mitochondrial respiration and bioenergetics. The codes are
+zipped into three files for the three folders corresponding to the heart and kidney cortex
+and OM. Each folder contains subroutines of the mitochondrial enzymes and transporters.
+Each folder also contains MATLAB codes to generate the figures of the published
+manuscript in the FUNCTION journal (FUNCTION, 2023, 4(5): zqad038).
