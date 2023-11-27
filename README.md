@@ -1,4 +1,4 @@
-# Shima_Physiome_2023
+# Sadri_Physiome_2023
 This folder contains MATLAB codes for the computational models of the heart and kidney 
 cortex and outer medulla (OM) mitochondrial respiration and bioenergetics. The codes are
 zipped into three files for the three folders corresponding to the heart and kidney cortex
